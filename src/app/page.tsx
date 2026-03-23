@@ -182,7 +182,7 @@ export default function App() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-r from-offwhite via-transparent to-transparent z-10" />
           <img 
-            src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=1920" 
+            src="/mariana-hero.jpg" 
             alt="Mariana Almeida"
             className="w-full h-full object-cover object-center opacity-20 grayscale"
             referrerPolicy="no-referrer"
